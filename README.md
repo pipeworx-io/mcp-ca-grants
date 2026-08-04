@@ -2,6 +2,8 @@
 
 California Grants Portal MCP — open State of California grant funding opportunities: who administers them, who may apply, how much money is available, and when applications are due. Keyless.
 
+Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1394+ live data sources.
+
 ## Tools
 
 - `ca_search_grants(query?, status?, category?, applicant_type?, limit?, offset?)` — free-text search over California state grant opportunities, filterable by status, category, and eligible applicant type. Defaults to `status="active"`.
@@ -39,7 +41,7 @@ Add to your MCP client (Claude Desktop, Cursor, Windsurf, etc.):
 }
 ```
 
-Or connect to the full Pipeworx gateway for access to all 1375+ data sources:
+Or connect to the full Pipeworx gateway for access to all 1394+ data sources:
 
 ```json
 {
@@ -63,7 +65,7 @@ The gateway picks the right tool and fills the arguments automatically.
 
 ## More
 
-- [All tools and guides](https://github.com/pipeworx-io/examples)
+- [Docs and guides](https://pipeworx.io/docs)
 - [pipeworx.io](https://pipeworx.io)
 
 ## License
