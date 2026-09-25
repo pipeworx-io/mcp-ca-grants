@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-ca-grants",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "California Grants Portal MCP — open State of California grant funding opportunities (keyless).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-07f3acd2f1d4db49de48072f629b7f092ac3bb825ad7d31393d9429053ba955a",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-6826891ddaf1dff7c68a55381e559763ab153a93198fc5803df761311bb05d13",
+    "sourceCommit": "babdd280d475dceddecc9ebf8f2a661712781a81"
   }
 }
